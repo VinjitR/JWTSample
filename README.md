@@ -1,5 +1,7 @@
 # JWT
 ## npm install
+## npm devStart
+## npm devStartAuth
 
 ## Set of requests
 
